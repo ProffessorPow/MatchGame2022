@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DotV3List
   m_EditorClassIdentifier: 
   vector3List:
-  - {fileID: 11400000, guid: d6924651fdcfd0944a5409a1b2928c76, type: 2}
-  - {fileID: 11400000, guid: 233615e9304683948832f334243f8921, type: 2}
-  - {fileID: 11400000, guid: 1ffed47e4a2ede54cb3bc8e585eeb2fc, type: 2}
-  - {fileID: 11400000, guid: 8b0c0b362c28c394c86ed7436ab0177d, type: 2}
+  - {fileID: 11400000, guid: 250b7f0e47645e8489dd671a476665a0, type: 2}
+  - {fileID: 11400000, guid: 7a5ca76adba2efe4f9ef0e97ca130994, type: 2}
+  - {fileID: 11400000, guid: 3b47d010d1dedc145a306fc7d2015c8c, type: 2}
+  - {fileID: 11400000, guid: d65ab59374535a9439bbb07f9369594b, type: 2}
